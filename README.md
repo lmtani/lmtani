@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-##### I'm a Bioinformatician and a Backend Developer working in São Paulo, Brazil.
+##### I'm a Passionate Bioinformatician and Backend Developer from São Paulo, Brazil.
 
-##### BIO
+##### About Me
 
-- 🏢 I'm currently working at **Mendelics - Genomic Analysis**
-- ⚙️ I use daily: `.py`, `.wdl`, `.nf`, `.cram`, `.vcf`, `.fastq`, `.go`
-- 🌱 I’m currently learning **Software Architecture** and **Nextflow**
+- 🏢 Currently, making genetic diagnosis fast, accurate, and accessible to everyone who needs it at **Mendelics - Genomic Analysis**.
+- ⚙️ Daily tools: `.py`, `.wdl`, `.nf`, `.cram`, `.vcf`, `.fastq`, `.go`
+- 🌱 Expanding my skills in **Software Architecture** and **legacy code refactoring**
 - 💬 Ask me about **development**, **genome assembly**, **bioinformatics pipelines**, **Docker**, **genomic tools** and **Google Cloud**
-- 📫 Reach me: [twitter.com/ltaniguti](https://twitter.com/ltaniguti)
-- ⚡️ Fun fact: I've already worked on histological slices of *Psidium cattleianum* leaves
-
+- 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/lmtani/)
 
 <details>
   <summary>Github Statistics</summary>
